@@ -1,5 +1,10 @@
 # BEProject
   project berupa oragization structure dari title, position dan employee.
+
+  spesifikasi project
+  - Asp.net Core 6
+  - database postgres
+
 ## Endpoint pada Project
 
 # Employee
